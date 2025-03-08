@@ -1,0 +1,27 @@
+{
+  "name": "honkit-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "memenashi",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "cspell": "^8.17.5",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-plantuml-cloud": "^1.0.2",
+    "honkit": "^6.0.2",
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "format": "prettier --write ./docs/**/*.md",
+    "format:check": "prettier --check ./docs/**/*.md",
+    "spell:check": "cspell --no-summary --no-progress docs/**/*.md",
+    "build:html": "honkit build",
+    "build:pdf": "honkit pdf",
+    "serve": "honkit serve"
+  },
+  "packageManager": "yarn@4.7.0"
+}
