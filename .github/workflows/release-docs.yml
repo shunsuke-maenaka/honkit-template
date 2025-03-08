@@ -3,7 +3,7 @@ name: Release PDF and Public GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   release:
