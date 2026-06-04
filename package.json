@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "private": true,
   "devDependencies": {
-    "cspell": "^9.0.0",
+    "cspell": "^10.0.0",
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-collapsible-chapters": "^0.1.8",
     "gitbook-plugin-hide-published-with": "^0.0.1",
