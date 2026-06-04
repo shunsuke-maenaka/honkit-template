@@ -23,5 +23,5 @@
     "build:pdf": "honkit pdf",
     "serve": "honkit serve"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.16.0"
 }
