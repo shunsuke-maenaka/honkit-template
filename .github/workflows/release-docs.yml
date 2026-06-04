@@ -30,7 +30,7 @@ jobs:
         run: yarn build:html
 
       - name: Archive
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           path: _book
           name: book
