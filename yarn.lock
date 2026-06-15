@@ -611,57 +611,57 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@honkit/asciidoc@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/asciidoc@npm:6.2.1"
+"@honkit/asciidoc@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/asciidoc@npm:6.2.2"
   dependencies:
-    "@honkit/html": "npm:6.2.1"
+    "@honkit/html": "npm:6.2.2"
     asciidoctor: "npm:^2.2.8"
-  checksum: 10c0/78264ace80abf887b1d84c89517fc1165157c2327ead92ad1b21b6057a85e738de5e42c85c1ec8cc64a4bfd73d71d914fa9438cb6f14b5ac12767880870db0f6
+  checksum: 10c0/f59afd8275087857550510b5e8dec652b245ea5d470eb93fcebeef3c6fb78071346f06f024df0d03b290bb7b790ea43ea9166dcdab32f41d0ff902e8c522af49
   languageName: node
   linkType: hard
 
-"@honkit/honkit-plugin-fontsettings@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/honkit-plugin-fontsettings@npm:6.2.1"
-  checksum: 10c0/d011543fd21c271e187e8dfb8741dd5494921b9581c4c170ff08606ba97421b82e100918a45f8441b56be0f12c16b7256a9481dfb8a37e2d10c3c7d25b8e6304
+"@honkit/honkit-plugin-fontsettings@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/honkit-plugin-fontsettings@npm:6.2.2"
+  checksum: 10c0/913d3cb8db6a08d0b8b830d87d57237e43a1cd36c918b7edc92e911996656430d5949af933374bed3314cdda879d8a073fae5220bc86ecfc57fd8344e631af70
   languageName: node
   linkType: hard
 
-"@honkit/honkit-plugin-highlight@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/honkit-plugin-highlight@npm:6.2.1"
+"@honkit/honkit-plugin-highlight@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/honkit-plugin-highlight@npm:6.2.2"
   dependencies:
     highlight.js: "npm:^11.10.0"
-  checksum: 10c0/3649569dca516780c86d75f2391b634d5c72f7d9ea2bed5f0a51c6e1287d981a65e991f1eca8b5ab8fd9620a749e5be4f3aaac2676cc7bbfe0efffceb37d8698
+  checksum: 10c0/074d4ecbc29f5507d7ea821b4f210671a97f92c696faeb35e216b3005fb2c022d0a451e0926e79271535a0116903a923431acd10762948e26ac64be80960c859
   languageName: node
   linkType: hard
 
-"@honkit/honkit-plugin-theme-default@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/honkit-plugin-theme-default@npm:6.2.1"
-  checksum: 10c0/64bdb0fa745c0e2bd4ac9ad9d89e35d1747e81b0dd0d82f30c7e10720dab09c8019588a051c254e56026bd97afda14fc5d57d1219a5c211f7795fe26a184b1a2
+"@honkit/honkit-plugin-theme-default@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/honkit-plugin-theme-default@npm:6.2.2"
+  checksum: 10c0/0747ecec2a99faf9a739d989b507691213d61595696b9598f516ce081a8d19b8ec71a5d07cd3bb1aaa0de37b2a8a4a09612aed1ec3aed639db740348c640a73b
   languageName: node
   linkType: hard
 
-"@honkit/html@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/html@npm:6.2.1"
+"@honkit/html@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/html@npm:6.2.2"
   dependencies:
     cheerio: "npm:^1.0.0"
     lodash: "npm:^4.17.23"
-  checksum: 10c0/345876d72d2b3e9dcbed51cc326e2a693604f52163fe641490f9f10bc39e398c0eecd9ce780ebbd5c490a6fe2d8d04342d160a97109b9ce4cb00976b8a748f52
+  checksum: 10c0/c1f4e1dedafbbaf93ff699df1af7952c039428538ca84f32f33baf36034a6eed11d7cf17a300e59d76e74fe62d6abb40e8adfd1c760dcdace8bf70a21ffea49f
   languageName: node
   linkType: hard
 
-"@honkit/markdown-legacy@npm:6.2.1":
-  version: 6.2.1
-  resolution: "@honkit/markdown-legacy@npm:6.2.1"
+"@honkit/markdown-legacy@npm:6.2.2":
+  version: 6.2.2
+  resolution: "@honkit/markdown-legacy@npm:6.2.2"
   dependencies:
-    "@honkit/html": "npm:6.2.1"
+    "@honkit/html": "npm:6.2.2"
     kramed: "npm:0.5.6"
     lodash: "npm:^4.17.23"
-  checksum: 10c0/2b6b76fbb19fdc2785c7defc1315d69c5183fd4fc64d764b80d4c2be5d8cca041059007cf5a5cbc96bf0d128ed9e261bf74215737875104737edc690958ac48e
+  checksum: 10c0/d8e0fe8330285f0f1f6ce5160e0f182284186495418377c2683dc3aaaef5f838e9f240c89bf986fc0a1c172a705b221175fb3c1adde6bb4493f34f5f9fa592ff
   languageName: node
   linkType: hard
 
@@ -2064,15 +2064,15 @@ __metadata:
   linkType: soft
 
 "honkit@npm:^6.0.2":
-  version: 6.2.1
-  resolution: "honkit@npm:6.2.1"
+  version: 6.2.2
+  resolution: "honkit@npm:6.2.2"
   dependencies:
-    "@honkit/asciidoc": "npm:6.2.1"
-    "@honkit/honkit-plugin-fontsettings": "npm:6.2.1"
-    "@honkit/honkit-plugin-highlight": "npm:6.2.1"
-    "@honkit/honkit-plugin-theme-default": "npm:6.2.1"
-    "@honkit/html": "npm:6.2.1"
-    "@honkit/markdown-legacy": "npm:6.2.1"
+    "@honkit/asciidoc": "npm:6.2.2"
+    "@honkit/honkit-plugin-fontsettings": "npm:6.2.2"
+    "@honkit/honkit-plugin-highlight": "npm:6.2.2"
+    "@honkit/honkit-plugin-theme-default": "npm:6.2.2"
+    "@honkit/html": "npm:6.2.2"
+    "@honkit/markdown-legacy": "npm:6.2.2"
     bash-color: "npm:^0.0.4"
     cheerio: "npm:^1.0.0"
     chokidar: "npm:^3.6.0"
@@ -2113,10 +2113,9 @@ __metadata:
     semver: "npm:^7.6.3"
     send: "npm:^0.19.2"
     tiny-lr: "npm:^1.1.1"
-    tmp: "npm:0.2.4"
   bin:
     honkit: bin/honkit.js
-  checksum: 10c0/5c8ba394730b4bd3350c20f43180f5ac42a1f02fac1add88a4c50ff8bcbc8fd658af89906ddd05c8c879eadeeb96ed5637961215d86d7c179e371fb6f3091dd0
+  checksum: 10c0/880ba881068baee24aecbef44a11b5cc253be495030a5b128cdd08531859abb535f6ad2c161ae6ce745a116377dfe0fd9215ff56d6cd1ae04af26d1c7d9ca235
   languageName: node
   linkType: hard
 
@@ -3425,13 +3424,6 @@ __metadata:
     fdir: "npm:^6.5.0"
     picomatch: "npm:^4.0.4"
   checksum: 10c0/7f7bb0f197c88bc4b20c231e0deca4240ca3bf313a88f5a7fee93a872b84966a4d50220947c0455ad07a60b3b360961c5b7fd979222aeb716a9f99b412002e4c
-  languageName: node
-  linkType: hard
-
-"tmp@npm:0.2.4":
-  version: 0.2.4
-  resolution: "tmp@npm:0.2.4"
-  checksum: 10c0/ac4a7538a9ddb89ead6f4ee019bc23c28ce31549a0bd0ba499a64f81e0804b1e9a3a758622b33807a1f9644dbde9a0205637985f9450abdba1d5062704f98782
   languageName: node
   linkType: hard
 
